@@ -1,0 +1,37 @@
+_repo: Making-People-Happy_27888
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fisher, Harrison
+    birthdate: 1875
+    deathdate: 1934
+    gutenberg_agent_id: '25149'
+    url: http://www.gutenberg.org/2009/agents/25149
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Buchanan, Thompson
+    birthdate: 1877
+    deathdate: 1937
+    gutenberg_agent_id: '32995'
+    url: http://www.gutenberg.org/2009/agents/32995
+description: ''
+gutenberg_issued: '2009-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27888'
+  lccn: '11025671'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Women -- Societies and clubs -- Fiction'
+title: Making People Happy
+url: http://www.gutenberg.org/ebooks/27888
